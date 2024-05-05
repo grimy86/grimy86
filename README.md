@@ -8,15 +8,6 @@
 <div align="center">
 <div align="left">
     <h4>
-    Working on:
-    </h4>
-        
-    [DataVista](https://github.com/ag-86/DataVista)
-    
-</div>
-
-<div align="left">
-    <h4>
     In progress:
     </h4>
         
