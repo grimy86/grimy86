@@ -11,7 +11,7 @@
     Working on:
     </h4>
         
-    -  <a href="https://github.com/ag-86/DataVista" target="_blank">
+    - [DataVista](https://github.com/ag-86/DataVista)
     
 </div>
 
