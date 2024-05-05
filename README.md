@@ -8,6 +8,15 @@
 <div align="center">
 <div align="left">
     <h4>
+    Working on:
+    </h4>
+        
+    - [.NET library for interacting with databases using ADO.NET and providing system management utilities for WPF applications.](https://github.com/ag-86/DataVista)
+    
+</div>
+
+<div align="left">
+    <h4>
     In progress:
     </h4>
         
