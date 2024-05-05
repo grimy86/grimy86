@@ -11,7 +11,7 @@
     Working on:
     </h4>
         
-    - [.NET library for interacting with databases using ADO.NET and providing system management utilities for WPF applications.](https://github.com/ag-86/DataVista)
+    -  <a href="https://github.com/ag-86/DataVista" target="_blank">
     
 </div>
 
