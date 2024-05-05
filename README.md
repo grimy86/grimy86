@@ -11,7 +11,7 @@
     Working on:
     </h4>
         
-    - [DataVista](https://github.com/ag-86/DataVista)
+    [DataVista](https://github.com/ag-86/DataVista)
     
 </div>
 
