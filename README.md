@@ -66,11 +66,13 @@
 
 ###
 
+- [x] [Portofolio](https://github.com/ag-86/Portofolio)
 - [x] Currently working on: [DataVista](https://github.com/ag-86/DataVista)
+    - [ ] Linq class
     - [ ] Debugging class
     - [ ] Win32 class
-- [ ] Linq
 - [ ] MVVM Architecture
 - [x] Git & Jira
 - [x] C++
 - [ ] ASM x86
+
