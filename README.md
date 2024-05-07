@@ -9,8 +9,7 @@
     I have a background in Biotech-ecology and have always been interested in innovation & technology.
     I transitioned to software development in October of 2023.
     I enjoy programming and being creative.
-
-
+    
 ###
 
 <h2 align="left">Languages</h2>
