@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">- Biotech-ecology background<br>- Always been interested in tech<br>- Transitioned to software development in October of 2023<br>- I enjoy being creative</p>
+<div align="left">
+  - Biotech-ecology background
+  - Always been interested in tech
+  - Transitioned to software development in October of 2023
+  - I enjoy being creative
+</div>
 
 ###
 
