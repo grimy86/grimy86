@@ -2,20 +2,18 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About</h2>
 
 ###
 
-<div align="left">
-  - Biotech-ecology background
-  - Always been interested in tech
-  - Transitioned to software development in October of 2023
-  - I enjoy being creative
-</div>
+    I have a background in Biotech-ecology and have always been interested in innovation & technology.
+    I transitioned to software development in October of 2023.
+    I enjoy programming and being creative.
+
 
 ###
 
-<h2 align="left">Code</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -36,10 +34,12 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
 </div>
 
 ###
+
+
 
 <h2 align="left">Tools</h2>
 
@@ -62,3 +62,16 @@
 </div>
 
 ###
+
+<h2 align="left">Portofolio</h2>
+
+###
+
+- [x] Currently working on: [DataVista](https://github.com/ag-86/DataVista)
+    - [ ] Debugging class
+    - [ ] Win32 class
+- [ ] Linq
+- [ ] MVVM Architecture
+- [x] Git & Jira
+- [x] C++
+- [ ] ASM x86
