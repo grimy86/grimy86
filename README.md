@@ -1,66 +1,59 @@
+<h1 align="left">Agc86</h1>
 
-<!-- TITLE GIF -->
-<div align="left">
-    <img src="https://ramkumarsingh1.github.io/internwings/img/c++.gif" height="75" width="75"">
-</div>
+###
 
-<!-- ABOUT ME -->
-<div align="center">
-<div align="left">
-    <h4>
-    In progress:
-    </h4>
-        
-    - Linq
-    - MVVM Architecture
-    - Git
-    - C++
-    
-</div>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- Biotech / ecology background<br>- Always been interested in tech<br>- Transitioned to software development in 2023<br>- I enjoy being creative</p>
+
+###
+
+<h2 align="left">Code</h2>
+
+###
 
 <div align="left">
-    <h4>
-    Future plans:
-    </h4>
-    
-    - C# debugging libraries
-    - Jira
-    - Win API
-    - x86 ASM
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 </div>
 
-</br>
+###
 
-<table style="border-collapse: collapse; border: none;" align="left">
-    <tr>
-        <td valign="top" width="33%">    
-            <div align="center">
-                <h3>Development</h3>
-                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-                <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET"     height="50" /></a>
-                <a href="https://cplusplus.com/" target="_blank">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/></a>  
-            </div>
-        </td>
-        <td valign="top" width="33%">
-            <div align="center">
-                <h3>Databases</h3>
-                <a href="https://www.mysql.com/" target="_blank">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-                <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-                <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-            </div>
-        </td>
-        <td valign="top" width="33%">
-            <div align="center">
-                <h3>Other</h3>
-                <a href="https://www.figma.com/" target="_blank">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-                <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>
-            </div>
-        </td>
-    </tr>
-</table>
+<h2 align="left">Databases</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+</div>
+
+###
