@@ -74,6 +74,8 @@
     - [x] Always trying to think of extension methods
 - [ ] MVVM Architecture
 - [x] Git & Jira
-- [x] C++
+- [x] C++: [Learncpp](https://www.learncpp.com/)
+    - [x] Trying to fit chapters in my schedule.
+    - [X] Currently on [type conversion](https://www.learncpp.com/cpp-tutorial/implicit-type-conversion/)
 - [ ] ASM x86
 
