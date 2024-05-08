@@ -71,6 +71,7 @@
     - [ ] Linq class
     - [ ] Debugging class
     - [ ] Win32 class
+    - [x] Always trying to think of extension methods
 - [ ] MVVM Architecture
 - [x] Git & Jira
 - [x] C++
