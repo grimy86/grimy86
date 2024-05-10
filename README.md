@@ -67,15 +67,14 @@
 ###
 
 - [x] [Portofolio](https://github.com/ag-86/Portofolio)
-- [x] Currently working on: [DataVista](https://github.com/ag-86/DataVista)
-    - [ ] Linq class
-    - [ ] Debugging class
-    - [ ] Win32 class
-    - [x] Always trying to think of extension methods
+- [x] Currently working on:
+    - [X] [DataVista](https://github.com/ag-86/DataVista)
+        - [X] [Writing C dll](https://github.com/ag-86/DataVista/tree/master/x64/Release))
+        - [ ] Debugging class
+- [ ] Win32 API
 - [ ] MVVM Architecture
-- [x] Git & Jira
-- [x] C++: [Learncpp](https://www.learncpp.com/)
-    - [x] Trying to fit chapters in my schedule.
-    - [X] Currently on [type conversion](https://www.learncpp.com/cpp-tutorial/implicit-type-conversion/)
+- [ ] Git & Jira
+- [ ] C++: [Learncpp](https://www.learncpp.com/)
+    - [x] Trying to fit chapters in my schedule to learn C / C++.
 - [ ] ASM x86
 
