@@ -71,10 +71,10 @@
     - [X] [DataVista](https://github.com/ag-86/DataVista)
         - [X] [Writing C dll](https://github.com/ag-86/DataVista/tree/master/x64/Release)
         - [ ] Debugging class
-- [ ] Win32 API
-- [ ] MVVM Architecture
-- [ ] Git & Jira
-- [ ] C++: [Learncpp](https://www.learncpp.com/)
-    - [x] Trying to fit C / C++ in my schedule.
-- [ ] ASM x86
+    - [ ] Win32 API
+    - [ ] MVVM Architecture
+    - [ ] Git & Jira
+    - [ ] C++: [Learncpp](https://www.learncpp.com/)
+        - [x] Trying to fit C / C++ in my schedule.
+    - [ ] ASM x86
 
