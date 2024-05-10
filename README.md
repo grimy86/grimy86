@@ -69,12 +69,12 @@
 - [x] [Portofolio](https://github.com/ag-86/Portofolio)
 - [x] Currently working on:
     - [X] [DataVista](https://github.com/ag-86/DataVista)
-        - [X] [Writing C dll](https://github.com/ag-86/DataVista/tree/master/x64/Release))
+        - [X] [Writing C dll](https://github.com/ag-86/DataVista/tree/master/x64/Release)
         - [ ] Debugging class
 - [ ] Win32 API
 - [ ] MVVM Architecture
 - [ ] Git & Jira
 - [ ] C++: [Learncpp](https://www.learncpp.com/)
-    - [x] Trying to fit chapters in my schedule to learn C / C++.
+    - [x] Trying to fit C / C++ in my schedule.
 - [ ] ASM x86
 
