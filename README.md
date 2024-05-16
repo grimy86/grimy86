@@ -74,7 +74,7 @@ In October of 2023 I started my software development and computer science journe
 - [X] [Trying to fit C / C++ in my schedule.](https://www.learncpp.com/)
 
 ### Future plans
-- [ ] ASM x86
+- [ ] ASM x86 / Reverse Engineering
 - [ ] Raspberry Pi
 - [ ] Arduino
 
