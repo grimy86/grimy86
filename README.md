@@ -72,6 +72,7 @@ In October of 2023 I started my software development and computer science journe
     - [ ] Windows Systems / API
 - [ ] MVVM Architecture
 - [X] [Trying to fit C / C++ in my schedule.](https://www.learncpp.com/)
+- [X] Analyzing dotnet disassemblies
 
 ### Future plans
 - [ ] ASM x86 / Reverse Engineering
