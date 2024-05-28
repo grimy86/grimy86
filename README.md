@@ -68,13 +68,11 @@ In October of 2023 I started my software development and computer science journe
 ### Current work
 - [X] [DataVista](https://github.com/ag-86/DataVista)
     - [X] [Writing C dll](https://github.com/ag-86/DataVista/tree/master/x64/Release)
-    - [ ] Debugging class
     - [ ] Windows Systems / API
-- [ ] MVVM Architecture
-- [X] [Trying to fit C / C++ in my schedule.](https://www.learncpp.com/)
-- [X] Analyzing dotnet disassemblies
 
-### Future plans
+### Hobbies
+- [X] Analyzing dotnet disassemblies
+- [X] [Trying to fit C / C++ in my schedule.](https://www.learncpp.com/)
 - [ ] ASM x86 / Reverse Engineering
 - [ ] Raspberry Pi
 - [ ] Arduino
