@@ -29,6 +29,8 @@ In October of 2023 I started my software development and computer science journe
   <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" height="40" alt="clion logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="40" alt="rider logo"  />
+  <img width ="12"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" height="40" alt="pi logo"/>
 </div>
 
 ## Frameworks / Libraries
@@ -77,6 +79,5 @@ In October of 2023 I started my software development and computer science journe
 - [X] Analyzing dotnet disassemblies
 - [X] [Trying to fit C / C++ in my schedule.](https://www.learncpp.com/)
 - [ ] ASM x86 / Reverse Engineering
-- [ ] Raspberry Pi
 - [ ] Arduino
 
