@@ -18,6 +18,8 @@ In October of 2023 I started my software development and computer science journe
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
+    <img width="12" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" height="40" alt="bash logo"  />
 </div>
 
 ## Development Environments / Tools
