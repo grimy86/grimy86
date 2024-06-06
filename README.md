@@ -3,7 +3,7 @@
 ## About
 I have a background in Biotech-ecology, where my fascination with innovation and technology has been a driving force.
 
-In October of 2023 I started my software development and computer science journey.
+In October of 2023 my software development and computer science journey started.
     
 ## Programming Languages
 <div align="left">
