@@ -70,9 +70,11 @@ In October of 2023 I started my software development and computer science journe
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
 </div>
 
-## Package management
+## Tools
 <div align="left">
   <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white&style=for-the-badge" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70.svg?style=for-the-badge&logo=Let's-Encrypt&logoColor=white" height="40" alt="lets encrypt logo"  />
 </div>
 
 ## [Portofolio](https://github.com/ag-86/Portofolio)
