@@ -9,6 +9,8 @@ In October of 2023 my software development and computer science journey started.
 <div align="left">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/XAML-0C54C2.svg?style=for-the-badge&logo=XAML&logoColor=white" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
