@@ -24,7 +24,7 @@ In October of 2023 my software development and computer science journey started.
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" height="40" alt="bash logo"  />
 </div>
 
-## Development Environments / Tools
+## Development Environment
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="40" alt="visualstudio logo"  />
   <img width="12" />
@@ -35,6 +35,7 @@ In October of 2023 my software development and computer science journey started.
   <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson" height="40" alt="rider logo"  />
   <img width ="12"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" height="40" alt="pi logo"/>
+  
 </div>
 
 ## Frameworks / Libraries
@@ -77,6 +78,18 @@ In October of 2023 my software development and computer science journey started.
   <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white&style=for-the-badge" height="40" alt="nuget logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70.svg?style=for-the-badge&logo=Let's-Encrypt&logoColor=white" height="40" alt="lets encrypt logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  /></div>
+
+  ## Cybersec
+<div align="left">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" height="40" alt="hackthebox logo"/>
+  <img width ="12"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white" height="40" alt="virtualbox logo"/>
+  <img width ="12"/>
+  <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" height="40" alt="vmware logo"/>
 </div>
 
 ## [Portofolio](https://github.com/ag-86/Portofolio)
