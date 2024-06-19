@@ -90,6 +90,8 @@ In October of 2023 my software development and computer science journey started.
   <img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white" height="40" alt="virtualbox logo"/>
   <img width ="12"/>
   <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" height="40" alt="vmware logo"/>
+  <img width ="12"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white" height="40" alt="debian logo"/>
 </div>
 
 ## [Portofolio](https://github.com/ag-86/Portofolio)
