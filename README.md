@@ -6,7 +6,7 @@ In October of 2023 my software development and computer science journey started.
 ### Current work
 - [x] [Maintaining ADO.NET library](https://github.com/ag-86/DataVista)
 - [ ] [Writing C++ summary](https://github.com/agC86/StudyCpp) 
-- [ ] [Writing x86 Assembly summary](https://github.com/agC86/StudyCpp)
+- [ ] Writing x86 Assembly summary
 - [ ] Slowly getting into InfoSec
 
 ### Portofolio
