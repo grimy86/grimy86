@@ -4,6 +4,7 @@ I have a background in Biotech-ecology, where my fascination with innovation and
 In October of 2023 my software development and computer science journey started.
 
 ### Current work
+I mainly write C# / WPF applications
 - [x] [Maintaining ADO.NET library](https://github.com/ag-86/DataVista)
 - [ ] [Writing C++ summary](https://github.com/agC86/StudyCpp) 
 
