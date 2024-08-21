@@ -7,7 +7,7 @@ In October of 2023 my software development and computer science journey started.
 I mainly write C# / WPF applications
 - [x] [Maintaining ADO.NET library](https://github.com/ag-86/DataVista)
 - [x] Learning x86 with MASM
-- [ ] [Writing C++ summary](https://github.com/agC86/StudyCpp) 
+- [X] [Writing C++ summary](https://github.com/agC86/StudyCpp) 
 
 ### Portofolio
 - [x] [Portofolio](https://github.com/ag-86/Portofolio)
