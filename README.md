@@ -5,7 +5,7 @@ Feel free to explore my repositories, [portfolio](https://github.com/ag-86/Porto
 
 ### Current work
 - [x] [Writing C++ summary](https://github.com/agC86/StudyCpp) - A in-depth summary of the C & C++ language.
--  [x] [Maintaining ADO.NET library](https://github.com/ag-86/DataVista) - A library for managing database interactions using ADO.NET.
+- [x] [Maintaining ADO.NET library](https://github.com/ag-86/DataVista) - A library for managing database interactions using ADO.NET.
     
 ## Programming Languages
 ### Compiled
