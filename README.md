@@ -1,5 +1,5 @@
 ## About me
-Hello! I'm Grimy86, a software developer with a strong focus on creating WPF applications and working with SQL databases. I have a passion for coding and enjoy exploring low-level programming in my side projects. 
+Hello! I'm Grimy86, a software developer with a strong focus on creating WPF applications and working with SQL databases. I have a passion for coding and enjoy exploring low-level cybersecurity in my side projects. 
 
 Feel free to explore my repositories, [portfolio](https://github.com/ag-86/Portofolio) and connect with me.
 
@@ -46,13 +46,4 @@ Feel free to explore my repositories, [portfolio](https://github.com/ag-86/Porto
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
     <img width="12" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-</div>
-
-### Cybersecurity
-<div align="left">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" height="40" alt="hackthebox logo"/>
-  <img width ="12"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white" height="40" alt="debian logo"/>
-  <img width ="12"/>
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" height="40" alt="bash logo"  />
 </div>
