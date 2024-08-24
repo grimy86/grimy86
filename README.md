@@ -1,4 +1,4 @@
-## About me
+## Hello, world!
 Hello! I'm Grimy86, a software developer with a strong focus on creating WPF applications and working with SQL databases. I have a passion for coding and enjoy exploring low-level cybersecurity in my side projects. 
 
 Feel free to explore my repositories, [portfolio](https://github.com/ag-86/Portofolio) and connect with me.
