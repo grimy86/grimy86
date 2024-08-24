@@ -28,6 +28,8 @@ Feel free to explore my repositories, [portfolio](https://github.com/ag-86/Porto
 ## Frameworks
 <div align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=for-the-badge" height="40" alt="Blazor Badge">
 </div>
 
 ## SQL Databases
