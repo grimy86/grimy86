@@ -8,6 +8,9 @@ Feel free to explore my repositories, [portfolio](https://github.com/ag-86/Portf
 - [x] [Maintaining ADO.NET library](https://github.com/ag-86/DataVista) - A library for managing database interactions using ADO.NET.
     
 ## Programming Languages
+### Top langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&layout=compact&theme=cobalt)
+
 ### Compiled
 <div align="left">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
