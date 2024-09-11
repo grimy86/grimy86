@@ -12,7 +12,7 @@ Feel free to explore my repositories, [portfolio](https://github.com/ag-86/Portf
     
 ## Programming Languages
 ### Top langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=10&theme=cobalt&layout=compact)
 
 ### Compiled
 <div align="left">
