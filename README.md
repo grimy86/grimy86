@@ -14,4 +14,4 @@ Feel free to explore my repositories and connect with me.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=10&theme=cobalt&layout=compact)
 
 ## Roadmaps
-[![roadmap.sh](https://roadmap.sh/card/tall/66d8d8d8c46f68d052415a5e?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66d8d8d8c46f68d052415a5e?variant=dark)](https://roadmap.sh)
