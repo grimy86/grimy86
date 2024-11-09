@@ -26,3 +26,9 @@
 
 - Wipe current web server and set up a new one using .NET Blazor
   - [ ] Study blazor well enough to write a nice webpage.
+
+### Finished work
+- [X] [basic C++ summary](https://github.com/grimy86/C-style_Cpp_Summary_2024)
+- [X] [JS terminal](https://github.com/grimy86/terminal86)
+- [X] [ADO.NET lib](https://github.com/grimy86/DataVista)
+
