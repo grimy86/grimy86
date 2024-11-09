@@ -1,9 +1,6 @@
 # Hello, world!
-Hello! I'm Grimy86, a software developer with a strong focus on creating full-stack WPF applications.
-
-I have a passion for low-level programming and enjoy exploring cybersecurity in my side projects. 
-
-Feel free to explore my repositories and connect with me.
+<p>Hello! I'm Grimy86 and I have a passion for low-level programming and enjoy exploring networks & cybersecurity in my side projects.</p> 
+<p>Feel free to explore my repositories and connect with me.</p>
 
 ### Current work
 - [x] Studying networks
