@@ -31,4 +31,10 @@
 - [X] [basic C++ summary](https://github.com/grimy86/C-style_Cpp_Summary_2024)
 - [X] [JS terminal](https://github.com/grimy86/terminal86)
 - [X] [ADO.NET lib](https://github.com/grimy86/DataVista)
+- [X] C++ login & registration validation system (private)
+- [X] C# external trainer (private)
+- [X] WPF traffic simulation (private)
+- [X] SQL Procedures (private)
+- [X] WPF MVVM projects (private)
+- [X] Powershell scripting for AzureDB (private)
 
