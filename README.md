@@ -4,6 +4,8 @@
 
 ### Current work
 - [x] Studying networks
+- [x] Studying x86 Assembly
+- [x] Studying .NET MAUI for android
 
 ### Top Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=10&theme=cobalt&layout=compact)
