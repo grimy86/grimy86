@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=20&theme=cobalt&layout=compact)
 
 ### CyberSecurity
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/grimy86.png)](https://tryhackme.com/r/p/grimy86)
+<img src="https://tryhackme-badges.s3.amazonaws.com/grimy86.png" alt="Your Image Badge" />
 
 ### Roadmaps
 [![roadmap.sh](https://roadmap.sh/card/tall/66d8d8d8c46f68d052415a5e?variant=dark)](https://roadmap.sh)
