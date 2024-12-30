@@ -2,21 +2,18 @@
 <p>Hello! I'm Grimy86 and I have a passion for low-level programming and enjoy exploring networks & cybersecurity in my side projects.</p> 
 <p>Feel free to explore my repositories and connect with me.</p>
 
-### Current work
+## Current work
 - [x] Studying networks
 - [x] Studying x86 Assembly
 - [x] Studying .NET MAUI for android
 
-### Top Programming Languages
+## Top Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=20&theme=cobalt&layout=compact)
 
-### CyberSecurity
-<img src="https://tryhackme-badges.s3.amazonaws.com/grimy86.png" alt="Your Image Badge" />
+## CyberSecurity
+![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/grimy86.png?update=1)
 
-### Roadmaps
-[![roadmap.sh](https://roadmap.sh/card/tall/66d8d8d8c46f68d052415a5e?variant=dark)](https://roadmap.sh)
-
-### To do
+## To do
 - Reverse engineer the Assault Cube game enough to write a [Trainer in C++](https://github.com/grimy86/AssaultCubeTrainer).
   - [X] Learn how externals work
   - [X] Write your first internal
@@ -32,7 +29,7 @@
 - Wipe current web server and set up a new one using .NET Blazor
   - [ ] Study blazor well enough to write a nice webpage.
 
-### Finished work
+## Finished work
 - [X] [basic C++ summary](https://github.com/grimy86/C-style_Cpp_Summary_2024)
 - [X] [JS terminal](https://github.com/grimy86/terminal86)
 - [X] [ADO.NET lib](https://github.com/grimy86/DataVista)
