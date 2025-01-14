@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=20&theme=cobalt&layout=compact)
 
 ## CyberSecurity
-![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/grimy86.png?update=1)
+![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/grimy86.png)
 
 ## To do
 1. Recreate windows sticky notes in MVVM
