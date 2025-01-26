@@ -7,14 +7,8 @@
 - [x] [C# intermediate summary](https://github.com/grimy86/CSharp_Intermediate_Summary_2024)
 
 ## To do
-1. Recreate windows sticky notes in MVVM
-  - [X] Design
-  - [X] MODEL
-  - [ ] VIEWMODEL
-  - [ ] VIEW
-  - [ ] SQL procedures
-
-2. Reverse engineer the Assault Cube game enough to write a [Trainer in C++](https://github.com/grimy86/AssaultCubeTrainer).
+- [ ] Recreate windows sticky notes in MVVM pattern
+- Reverse engineer the Assault Cube game enough to write a [Trainer in C++](https://github.com/grimy86/AssaultCubeTrainer).
   - [X] Learn how externals work
   - [X] Write your first internal
   - [ ] Write a dll injector and study hooking functions
