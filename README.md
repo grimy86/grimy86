@@ -1,9 +1,8 @@
 # Hello, world!
-<p>Hello! I'm Grimy86 and I have a passion for low-level programming and enjoy exploring networks & cybersecurity in my side projects.</p> 
-<p>Feel free to explore my repositories and connect with me.</p>
+I'm Grimy86 and I have a passion for low-level programming and enjoy exploring cybersecurity in my side projects.
 
 ## Current projects
-- [x] [Cybersecurity insights '25](https://github.com/grimy86/CyberSecurity_Insights_2025)
+- [x] [Cybersecurity & Code Insights '25](https://github.com/grimy86/CyberSecurity_Insights_2025)
 - [x] [C# intermediate summary](https://github.com/grimy86/CSharp_Intermediate_Summary_2024)
 
 ## To do
@@ -15,16 +14,16 @@
   - [ ] Call game functions
   - [ ] Make an ESP
 
-## Other work
-- [X] C++ login & registration validation system
-- [X] JS terminal
-- [X] ADO.NET lib
-- [X] C# external trainer
-- [X] WPF traffic simulation
-- [X] SQL Procedures
+## Other projects
+- [X] Login & registration validation system in C++
+- [X] CLI Terminal GUI in JS
+- [X] ADO.NET DLL
+- [X] C# external trainer for Assault Cube
+- [X] Traffic intersection simulation in C#, WPF
+- [X] SQL Procedures in MSSQL
 - [X] WPF MVVM projects
 - [X] Powershell scripting for AzureDB
-- [X] Basic C-style C++ summary
-- [X] Basic x86 architecture summary
+- [X] C-style C++ summary
+- [X] x86 architecture summary
 - [X] Basic process informer in python
 
