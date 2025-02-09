@@ -2,8 +2,9 @@
 I'm Grimy86 and I have a passion for low-level programming and enjoy exploring cybersecurity in my side projects.
 
 ## Current projects
+- [x] Making a Microsoft's Sticky Notes clone from scratch using WPF (MVVM)
 - [x] [Cybersecurity & Code Insights '25](https://github.com/grimy86/CyberSecurity_Insights_2025)
-- [x] [C# intermediate summary](https://github.com/grimy86/CSharp_Intermediate_Summary_2024)
+- [ ] [C# intermediate summary](https://github.com/grimy86/CSharp_Intermediate_Summary_2024)
 
 ## To do
 - [ ] Recreate windows sticky notes in MVVM pattern
