@@ -14,7 +14,7 @@ I'm Grimy86 and I have a passion for low-level programming and enjoy exploring c
   - [ ] Write a dll injector and study hooking functions
   - [ ] Call game functions
   - [ ] Make an ESP
-- Rework the C++ course from PDF to markdown files (Absolute last priority for now).
+- [ ] Rework the C++ course from PDF to markdown files (Absolute last priority for now).
 
 ## Other projects
 - [X] Login & registration validation system in C++
