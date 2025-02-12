@@ -4,16 +4,17 @@ I'm Grimy86 and I have a passion for low-level programming and enjoy exploring c
 ## Current projects
 - [x] Making a Microsoft's Sticky Notes clone from scratch using WPF (MVVM)
 - [x] [Cybersecurity & Code Insights '25](https://github.com/grimy86/CyberSecurity_Insights_2025)
-- [ ] [C# intermediate summary](https://github.com/grimy86/CSharp_Intermediate_Summary_2024)
 
-## To do
+## To do in the future
 - [ ] Recreate windows sticky notes in MVVM pattern
+- [ ] [C# intermediate summary](https://github.com/grimy86/CSharp_Intermediate_Summary_2024)
 - Reverse engineer the Assault Cube game enough to write a [Trainer in C++](https://github.com/grimy86/AssaultCubeTrainer).
   - [X] Learn how externals work
   - [X] Write your first internal
   - [ ] Write a dll injector and study hooking functions
   - [ ] Call game functions
   - [ ] Make an ESP
+- Rework the C++ course from PDF to markdown files (Absolute last priority for now).
 
 ## Other projects
 - [X] Login & registration validation system in C++
