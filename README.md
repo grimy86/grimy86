@@ -2,8 +2,8 @@
 I'm Grimy86 and I have a passion for low-level programming and enjoy exploring cybersecurity in my side projects.
 
 ## Current projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=CCI25&theme=swift)](https://github.com/grimy86/CCI25)
 - [x] Making a Microsoft's Sticky Notes clone from scratch using WPF (MVVM)
-- [x] [Cybersecurity & Code Insights '25](https://github.com/grimy86/CyberSecurity_Insights_2025)
 
 <details>
 <summary> Future projects </summary>
@@ -35,4 +35,5 @@ I'm Grimy86 and I have a passion for low-level programming and enjoy exploring c
 
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=20&theme=cobalt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=10&theme=swift&hide_title=true&size_weight=0.5&count_weight=0.5)
+
