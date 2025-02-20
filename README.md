@@ -34,3 +34,5 @@ I'm Grimy86 and I have a passion for low-level programming and enjoy exploring c
 - Basic process informer in python
 
 </details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=20&theme=cobalt&layout=compact)
