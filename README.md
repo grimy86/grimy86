@@ -15,6 +15,9 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
   - [ ] Study function hooking
   - [ ] Call game functions
   - [ ] Make an ESP
+- [ ] Study Books & include them into the `CCI25` repo
+  - [ ] Design Patterns Elements of Reusable Object-Oriented Software
+  - [ ] Windows Internals part 1
 - [ ] Rework the my C++ course from PDF to markdown files (Absolute last priority for now).
 
 </details>
@@ -34,6 +37,10 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
 - C# GUI App that: runs powershell scripts, extracts system info to .csv files and mails them.
 - C# summary in 2025
 - Reverse engineering role for TryHackMe's Hackfinity student contest @ Cyber Legion
+- Software architecture in C# for Mailing, System & Windows Process services.
+  - Reads out all of the system info: NTAccounts, OSVersionInfo, Win32_OperatingSystem Info, Win32_Processor Info, etc...
+  - Mail services to be used by a in-house "bot" to send application csv's, bool results, etc. to a team mailaddress.
+  - Windows Process services that handle complete control over administrative tasks like executing batch, ps1, .exe, etc.
 
 </details>
 
