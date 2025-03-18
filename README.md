@@ -33,6 +33,7 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
 - Basic process informer in python
 - C# GUI App that: runs powershell scripts, extracts system info to .csv files and mails them.
 - C# summary in 2025
+- Reverse engineering role for TryHackMe's Hackfinity student contest @ Cyber Legion
 
 </details>
 
