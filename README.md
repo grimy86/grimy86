@@ -15,7 +15,7 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
   - [ ] Study function hooking
   - [ ] Call game functions
   - [ ] Make an ESP
-- [ ] Study Books & include them into the `CCI25` repo
+- Study Books & include them into the `CCI25` repo
   - [ ] Design Patterns Elements of Reusable Object-Oriented Software
   - [ ] Windows Internals part 1
 - [ ] Rework the my C++ course from PDF to markdown files (Absolute last priority for now).
