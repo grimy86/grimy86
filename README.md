@@ -1,17 +1,12 @@
----
-layout: page
-title: About
-permalink: /About/
-nav_order: 6
----
-
 # Hello, world!
 I'm Grimy86, passionate about low-level programming and cybersecurity. I contribute to the open-source community by sharing notes to help newcomers learn and grow.
+
+[Website](https://grimy86.github.io/)
 
 [Contact](mailto:grimy86@proton.me)
 
 ## Current projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=CCI25&theme=swift)](https://github.com/grimy86/CCI25)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=CCI25&theme=white)](https://github.com/grimy86/CCI25)
 
 ---
 
@@ -33,7 +28,7 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
 ---
 
 <!-- https://badges.pages.dev/ -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=10&theme=swift&hide_title=true&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=10&theme=white&hide_title=true&size_weight=0.5&count_weight=0.5)
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
