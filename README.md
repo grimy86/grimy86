@@ -23,7 +23,11 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
     - [ ] Design Patterns Elements of Reusable Object-Oriented Software
     - [ ] Windows Internals part 1
   - [ ] Rework the C# and C++ course into a more unified programming fundamentals course
-  - [ ] Rework the reverse engineering & cybersec sections
+  - [ ] Rework the reverse engineering & cybersec sections 
+- Repurpose my Raspberry Pi using Proxmox, kubernetes or Docker:
+  - [ ] Pi-Hole
+  - [ ] Zeek
+  - [ ] Some lightweight OS
 
 ---
 
