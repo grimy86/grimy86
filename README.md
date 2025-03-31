@@ -6,6 +6,7 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
 [Contact](mailto:grimy86@proton.me)
 
 ## Current projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=grimy86.github.io&theme=white)](https://github.com/grimy86/grimy86.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=CCI25&theme=white)](https://github.com/grimy86/CCI25)
 
 ---
@@ -29,7 +30,7 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
 ---
 
 <!-- https://badges.pages.dev/ -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&langs_count=10&theme=white&hide_title=true&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&layout=donut&langs_count=6&theme=white&hide_title=true&size_weight=0.5&count_weight=0.5&hide=HTML,Css,JavaScript,Ruby)
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
