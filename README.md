@@ -1,17 +1,14 @@
 # Hello, world!
 I'm Grimy86, passionate about low-level programming and cybersecurity. I contribute to the open-source community by sharing notes to help newcomers learn and grow.
 
-[Website](https://grimy86.github.io/)
-
-[Contact](mailto:grimy86@proton.me)
-
-## Current projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=grimy86.github.io&theme=transparent)](https://github.com/grimy86/grimy86.github.io)
+## Current Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=CCI25&theme=transparent)](https://github.com/grimy86/CCI25)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=grimy86.github.io&theme=transparent)](https://github.com/grimy86/grimy86.github.io)
 
 ---
 
-## Future projects
+## Future Projects
 - Reverse engineer the Assault Cube game enough to write a [Trainer in C++](https://github.com/grimy86/AssaultCubeTrainer).
   - [X] Learn how externals work
   - [X] Write your first internal
@@ -28,6 +25,8 @@ I'm Grimy86, passionate about low-level programming and cybersecurity. I contrib
 - [ ] Repurpose Raspberry Pi to use Zeek
 
 ---
+
+## Tech Stack
 
 <!-- https://badges.pages.dev/ -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&layout=donut&langs_count=6&theme=transparent&hide_title=true&size_weight=0.5&count_weight=0.5&hide=HTML,Css,JavaScript,Ruby)
