@@ -2,8 +2,6 @@
 I'm Grimy86, passionate about low-level programming and cybersecurity. I contribute to the open-source community by sharing notes to help newcomers learn and grow.
 
 ## Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=CCI25&theme=transparent)](https://github.com/grimy86/CCI25)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=grimy86.github.io&theme=transparent)](https://github.com/grimy86/grimy86.github.io)
 
 ---
