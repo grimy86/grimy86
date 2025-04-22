@@ -3,7 +3,8 @@ I'm **Grimy86**, a passionate low-level programmer and cybersecurity enthusiast.
 
 ---
 
-## 🚧 Current Project
+## 🚧 Current Project(s)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=AssaultCubeTrainer&theme=transparent)](https://github.com/grimy86/AssaultCubeTrainer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=grimy86&repo=grimy86.github.io&theme=transparent)](https://github.com/grimy86/grimy86.github.io)
 
 ---
@@ -38,8 +39,8 @@ Maintaining my knowledge base:
 <!-- https://badges.pages.dev/ -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&layout=donut&langs_count=6&theme=transparent&hide_title=true&size_weight=0.5&count_weight=0.5&hide=HTML,Css,JavaScript,Ruby)
 
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
 
 ---
