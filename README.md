@@ -1,4 +1,4 @@
-# Hello, world! 👋
+# Hello, world!
 I'm **Grimy86**, a passionate low-level programmer and cybersecurity enthusiast. I love diving deep into how things work under the hood and sharing my knowledge with the open-source community to help others learn and grow.
 
 ---
