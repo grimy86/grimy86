@@ -1,6 +1,4 @@
 # Hello, world!
-I’m Grimy86, a developer focused on low-level programming and system internals. Starting in 2023, I’ve [documented my learning](https://grimy86.github.io/) to contribute back to the open-source community.
-
 <!-- https://badges.pages.dev/ -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grimy86&layout=donut&langs_count=5&theme=transparent&hide_title=true&size_weight=0.5&count_weight=0.5)
 
