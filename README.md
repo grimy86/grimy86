@@ -14,10 +14,13 @@
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square&style=for-the-badge)
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat-square&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white&style=flat-square&style=for-the-badge)
-![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff&style=flat-square&style=for-the-badge)
+![Markdown Badge](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white&style=flat-square&style=for-the-badge)
+![MkDocs Badge](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff&style=flat-square&style=for-the-badge)
 
 ---
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white&style=flat-square&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat-square&style=for-the-badge)
+![Azure Badge](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white&style=flat-square&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat-square&style=for-the-badge)
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square&style=for-the-badge)](#)
+![Snyk Badge](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff&style=flat-square&style=for-the-badge)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square&style=for-the-badge)
