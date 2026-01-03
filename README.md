@@ -24,3 +24,7 @@
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square&style=for-the-badge)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square&style=for-the-badge)
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat-square&style=for-the-badge)
+
+---
+
+![Profile Views Badge](https://komarev.com/ghpvc/?username=grimy86&color=orange&style=flat)
