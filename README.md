@@ -53,6 +53,8 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff&style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=fff&style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)
+![Pi-hole Badge](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=ffff&style=for-the-badge)
 
 ---
 
